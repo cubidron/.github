@@ -1,6 +1,6 @@
 # 🌟 Cubidron Creative
 
-> Yıldızlararası yaratıcılık kolektifi - Interstellar creative collective ✨
+> Interstellar creative collective ✨
 
 ## 🚀 What We Do?
 
@@ -26,7 +26,7 @@
 
 # 🌟 Cubidron Creative
 
-> Yıldızlararası yaratıcılık kolektifi - Interstellar creative collective ✨
+> Yıldızlararası yaratıcılık kolektifi ✨
 
 ## 🚀 Neler Yapıyoruz?
 
