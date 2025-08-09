@@ -77,10 +77,10 @@
   <a href="https://cubidron.com">
     <img src="https://img.shields.io/badge/🌐_Cubidron-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
-  <a href="#">
+  <a href="https://cubidron.com/portfolio">
     <img src="https://img.shields.io/badge/💼_Portfolio-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="#">
+  <a href="https://cubidron.com/about">
     <img src="https://img.shields.io/badge/📧_Contact-45B7D1?style=for-the-badge&logo=mail&logoColor=white" alt="Contact" />
   </a>
 </div>
@@ -166,11 +166,11 @@
   <a href="https://cubidron.com">
     <img src="https://img.shields.io/badge/🌐_Cubidron-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/💼_Portföy-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
+  <a href="https://cubidron.com/portfolio">
+    <img src="https://img.shields.io/badge/💼_Portfolio-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/📧_İletişim-45B7D1?style=for-the-badge&logo=mail&logoColor=white" alt="Contact" />
+  <a href="https://cubidron.com/about">
+    <img src="https://img.shields.io/badge/📧_Contact-45B7D1?style=for-the-badge&logo=mail&logoColor=white" alt="Contact" />
   </a>
 </div>
 
