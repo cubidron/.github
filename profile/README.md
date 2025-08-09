@@ -7,12 +7,6 @@
   <p><em>Interstellar creative collective ✨</em></p>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✨_Creative-Universe-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌟_Quality-Premium-gold?style=for-the-badge" />
-</div>
-
 <br>
 
 ## 🚀 What We Do?
